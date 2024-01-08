@@ -1,0 +1,203 @@
+{
+    "pizza":[
+        {
+            "id":1,
+            "name":"پیتزا سوجوک 30cm",
+            "price":"  388000 تومان ",
+            "Description":"کالباس سوجوک 80 درصد ، دونر گوشت ، پنیر دودی ، قارچ ، پنیر موزارلا، کنجد ، سس مخصوص ،سیب زمینی سرخ شده",
+            "img":"https://static.delino.com/Image/Restaurant/Food/g5p2ckap.sli_560x350.jpg"
+        },
+        {
+            "id":2,
+            "name":"پیتزا هات چیکن 30cm",
+            "price":"2560000 تومان",
+            "Description":"سینه مرغ گریل، قارچ، فلفل هالوپینو، سس تند، پنیر موزارالا، شوید، سیب زمینی",
+            "img":"https://static.delino.com/Image/Restaurant/Food/2vn3on23.eiv_560x350.jpg"
+        },
+        {
+            "id":3,
+            "name":"پیتزا 30 سانتی دنر استیک",
+            "price":"3350000 تومان",
+            "Description":"دونرگوشت کبابی، سس خامه ، قارچ، پیاز، پنیر موزارلا",
+            "img":"https://static.delino.com/Image/Restaurant/Food/vegermns.qfj_560x350.jpg"
+        },
+        {
+            "id":4,
+            "name":"پیتزا 30 سانتی مرغ",
+            "price":"2350000 تومان",
+            "Description":"سینه مرغ گریل ، قارچ، فلفل دلمه‌ای ، پنیر موزارلا ، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/i3bo0ohr.a1y_560x350.jpg"
+        },
+        {
+            "id":5,
+            "name":"پیتزا 30 سانتی مخلوط",
+            "price":"2390000 تومان",
+            "Description":"ژامبون گوشت و مرغ ، هات داگ فرانکفورتر ، قارچ ، زیتون ،گوجه فرنگی ، فلفل دلمه‌ای ،پنیر موزارلا ،سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/cypumruq.tjm_560x350.jpg"
+        },
+        {
+            "id":6,
+            "name":"ییتزا 23 سانتی مرغ",
+            "price":"2240000 تومان",
+            "Description":"سینه مرغ گریل ، قارچ، فلفل دلمه‌ای ، پنیر موزارلا ، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/lhysce3i.4ig_560x350.jpg"
+        }
+    ],
+    "burger":[
+        {
+            "id":1,
+            "name":"همبرگر",
+            "price":"1310000 تومان",
+            "Description":"همبرگر ، گوجه ، خیارشور، کاهو ، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/vt3aamvw.q2y_560x350.jpg"
+        },
+        {
+            "id":2,
+            "name":"چیز برگر",
+            "price":"1340000 تومان",
+            "Description":"همبرگر ، پنیر دیپ گودا ، گوجه ، خیارشور، کاهو ،سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/zmr3wyh3.z3y_560x350.jpg"
+        },
+        {
+            "id":3,
+            "name":"فرش برگر",
+            "price":"1720000 تومان",
+            "Description":"همبرگر ویژه، گوجه ، خیارشور، کاهو، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/vt3aamvw.q2y_560x350.jpg"
+        },
+        {
+            "id":4,
+            "name":"چیکن کریسپی با پنیر گودا",
+            "price":"1880000 تومان",
+            "Description":"سینه مرغ سوخاری کریسپی، پنیر دیپ گودا ، کاهو ،خیارشور، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/jdlrgzi0.u3c_560x350.jpg"
+        },
+        {
+            "id":5,
+            "name":"فرش ماشروم برگر",
+            "price":"1840000 تومان",
+            "Description":"همبرگر ویژه ، قارچ طعم‌دار، پنیر دیپ گودا ، پیاز سرخ شده، خیارشور، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/eg1x3fn4.uyf_560x350.jpg"
+        },
+        {
+            "id":6,
+            "name":"گریل چیکن",
+            "price":"1940000 تومان",
+            "Description":"سینه مرغ گریل ، پنیر دیپ گودا ، کاهو ، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/czl3ruwp.ryi_560x350.jpg"
+        }
+    ],
+    "fried":[
+        {
+            "id":1,
+            "name":"چیکن چیز ژامبوپلاس",
+            "price":"2060000 تومان",
+            "Description":"مرغ سوخاری ، پنیر پیتزا ، سیب زمینی سرخ کرده ، ژامبون، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/dnhngyvo.du1_560x350.jpg"
+        },
+        {
+            "id":2,
+            "name":"چیکن چیز کلاسیک",
+            "price":"2060000 تومان",
+            "Description":"مرغ سوخاری ، پنیر پیتزا ، سیب زمینی سرخ کرده ، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/54ezkonv.o0b_560x350.jpg"
+        },
+        {
+            "id":3,
+            "name":"چیکن چیز هات پلاس",
+            "price":"2120000 تومان",
+            "Description":"مرغ سوخاری ، پنیر پیتزا ، سیب زمینی سرخ کرده ، هالوپینو، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/cvbmqfha.l2v_560x350.jpg"
+        },
+        {
+            "id":4,
+            "name":"چیکن استریپس",
+            "price":"2340000 تومان",
+            "Description":"فیله سوخاری سه تکه، سس مخصوص ، سالاد کلم، سیب زمینی ، نان بروچن",
+            "img":"https://static.delino.com/Image/Restaurant/Food/o24gz51r.0oh_560x350.jpg"
+        }
+    ],
+    "Appetizer":[
+        {
+            "id":1,
+            "name":"سالاد چیکن پاپ کورن",
+            "price":"1680000 تومان",
+            "Description":"توپک مرغ پنیری، کاهو، پنیر مخصوص، زیتون، سس مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/lc1s40kg.kme_560x350.jpg"
+        },
+        {
+            "id":2,
+            "name":"سالاد سزار با مرغ سوخاری پنیری",
+            "price":"1720000 تومان",
+            "Description":"مرغ سوخاری پنیری، کاهو، پنیر مخصوص، زیتون، سس سزار",
+            "img":"https://static.delino.com/Image/Restaurant/Food/qha3gddd.k35_560x350.jpg"
+        },
+        {
+            "id":3,
+            "name":"فینگر کریسپی",
+            "price":"890000 تومان",
+            "Description":"توپک مرغ پنیری، پوره سیب زمینی سوخاری، سس مخصوص، شوید",
+            "img":"https://static.delino.com/Image/Restaurant/Food/ryk3is54.03d_560x350.jpg"
+        },
+        {
+            "id":4,
+            "name":"نان سیر",
+            "price":"980000 تومان",
+            "Description":"خمیر پیتزا ، پوره سیر کره ای، سس مخصوص، پنیر پیتزا",
+            "img":"https://static.delino.com/Image/Restaurant/Food/125b5ypb.yiy_560x350.jpg"
+        },
+        {
+            "id":5,
+            "name":"سالاد سزار با مرغ گریل",
+            "price":"1580000 تومان",
+            "Description":"مرغ گریل ، کاهو ، پنیر مخصوص ، زیتون ، نان کروتان ، سس سزار",
+            "img":"https://static.delino.com/Image/Restaurant/Food/hqht5jb3.44s_560x350.jpg"
+        },
+        {
+            "id":6,
+            "name":"سیب زمینی",
+            "price":"740000 تومان",
+            "Description":"سیب زمینی سـرخ شده، ادویه مخصوص",
+            "img":"https://static.delino.com/Image/Restaurant/Food/gg412hit.rqz_560x350.jpg"
+        }
+    ],
+    "drinks":[
+        {
+            "id":1,
+            "name":"دوغ قوطی",
+            "price":"162000 تومان",
+        
+            "img":"https://static.delino.com/data/restmenu/food/150rva1t.lv5_560x350.jpg"
+        },
+        {
+            "id":2,
+            "name":"نوشابه خانواده",
+            "price":"276000 تومان",
+          
+            "img":"https://static.delino.com/Image/Restaurant/Food/4uff3zu0.rfo_560x350.jpg"
+        },
+        {
+            "id":3,
+            "name":"هی دی قوطی",
+            "price":"228000 تومان",
+          
+            "img":"https://static.delino.com/data/restmenu/food/z4f0gzc3.uxp_560x350.jpg"
+        },
+        {
+            "id":4,
+            "name":"آب معدنی",
+            "price":"45000 تومان",
+       
+            "img":"https://static.delino.com/data/restmenu/food/uufpvhgz.21a_560x350.jpg"
+        },
+        {
+            "id":5,
+            "name":"نوشابه قوطی",
+            "price":"178000 تومان",
+      
+            "img":"https://static.delino.com/Image/Restaurant/Food/f10inbyi.3jr_560x350.jpg"
+        }
+    ]
+    
+
+}

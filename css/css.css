@@ -1,0 +1,6 @@
+@import "cssglobal.css";
+@import url( "XL.css" ) screen and (min-width: 1200px);
+@import url( "LG.css" ) screen and (min-width: 992px) and (max-width:1200px);
+@import url( "MD.css" ) screen and (min-width: 768px) and (max-width:992px);
+@import url( "SM.css" ) screen and (min-width: 576px) and (max-width:768px);
+@import url( "XS.css" ) screen and (max-width: 576px);
